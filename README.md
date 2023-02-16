@@ -1,11 +1,5 @@
 # EDC-MVD-IONOS-VM
 How to deploy EDC Minimum Viable Data Space on IONOS cloud Virtual Machines 
-# Minimum Viable Dataspace Local
-
-
-This document aims to help the deployment of the Eclipse Dataspace Connector, Minimum Viable Dataspace (MVD), in a local environment for presentation and/or development purposes.
-
-(This document will use W2SL-Ubuntu in Windows)
 
 
 ## Based on the following
